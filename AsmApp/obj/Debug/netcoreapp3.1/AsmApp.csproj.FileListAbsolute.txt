@@ -386,3 +386,4 @@ C:\Users\nstac\OneDrive\Desktop\Application Development\Code\AsmApp\Application-
 C:\Users\nstac\OneDrive\Desktop\Application Development\Code\AsmApp\Application-asm\AsmApp\obj\Debug\netcoreapp3.1\AsmApp.dll
 C:\Users\nstac\OneDrive\Desktop\Application Development\Code\AsmApp\Application-asm\AsmApp\obj\Debug\netcoreapp3.1\AsmApp.pdb
 C:\Users\nstac\OneDrive\Desktop\Application Development\Code\AsmApp\Application-asm\AsmApp\obj\Debug\netcoreapp3.1\AsmApp.genruntimeconfig.cache
+C:\Users\nstac\OneDrive\Desktop\Application Development\Code\AsmApp\Application-asm\AsmApp\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
